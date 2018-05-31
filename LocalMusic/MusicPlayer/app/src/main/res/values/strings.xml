@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="time">04:25</string>
+    <string name="siger">Troye Sivan</string>
+    <string name="artist">Troye Sivan</string>
+    <string name="repeat_current">单曲循环</string>
+    <string name="repeat_all">列表循环</string>
+    <string name="repeat_none">取消循环播放</string>
+    <string name="shuffle">随机循环</string>
+    <string name="shuffle_none">取消随机播放</string>
+</resources>
